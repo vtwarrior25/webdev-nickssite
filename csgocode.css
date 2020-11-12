@@ -1,0 +1,53 @@
+#csgocrosshairs {
+    font-size:1.875em;
+    padding:0.1875em;
+
+}
+
+#csgocrosshairs body track {
+    border:0.125em solid rgb(93, 93, 104);
+}
+
+#csgocrosshairs td{
+    padding:0.2em;
+    
+}
+
+#download {
+    padding-right:1.0em;
+}
+
+#csgocrosshairs tbody tr {
+    float:left;
+}
+
+#csgocodemain thead {
+    font-size:1.0em;
+}
+
+#othercsgoscripts thead {
+    font-size:1.25em;
+}
+
+#csgocrosshairtable{
+    margin-left:2em;
+    border-right: 5px groove rgb(93, 93, 104);
+}
+
+
+#othercsgoscripts{
+    margin-left:2.5em;
+}
+    
+#othercsgoscriptstable {
+    font-size:1.25em;
+    margin-top:1em;
+}
+
+#othercsgoscriptstable td {
+    padding:0.2em;
+}
+
+#othercsgoscriptstable td.scripttitle {
+    font-size:1.25em;
+}

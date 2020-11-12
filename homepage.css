@@ -1,0 +1,84 @@
+#indexmainstuff-leftside{
+    float:left;
+    width:45%;
+    padding-left:0.25em;
+    margin-right:0em;
+    border-right:0.1875em groove rgb(93, 93, 104);
+}
+
+#indexmainstuff-rightside {
+    float:left;
+    width:48%;
+    padding-left:0.25em;
+    margin-left:0em;
+    border-left:0.1875em groove rgb(93, 93, 104);
+}
+
+#mainstuffwrapper {
+    background-color:darkgreen;
+    border:0.1875em groove rgb(93, 93, 104);
+}
+
+#twitchstream {
+    float:left;
+    width:50%;
+}
+
+#homepagemain {
+    font-size:1.25em;
+}
+
+#indexaudiotable td{
+    padding:0.625em;
+}
+
+#middle-michaelbuble {
+    padding-top:0.313em;
+}
+
+#aboutwebsite {
+    border-bottom:0.3em groove rgb(93, 93, 104);
+    margin-left:0;
+    padding-left:0.5em;
+}
+
+.indexshowcase {
+    border-bottom:0.1875em groove rgb(93, 93, 104);
+}
+
+#indexcsgotable {
+    padding-bottom:0.7em;
+}
+
+#indexcsgotable tr {
+    float:left;
+    padding-left:0.5em;
+}
+
+#indexcsscript {
+    margin-top:0.5em;
+}
+
+.indexcsscriptstuff {
+    padding-left:0.7em;
+    padding-top:1.7em;
+}
+
+#indexcsscripttitle {
+    padding-top:1.4em;
+    font-size:1.2em;
+    padding-left:0.9em;
+}
+
+a {
+    color:inherit;
+    text-decoration: none;
+}
+
+a:hover{
+    color:rgb(161, 157, 157);
+}
+
+#sonnetparagraph {
+    padding-left:1em;
+} 

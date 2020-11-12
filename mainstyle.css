@@ -1,0 +1,104 @@
+header, table, div{
+    background-color:darkgreen;
+}
+
+
+html{
+    background-color:rgb(33, 143, 33);
+    color:rgb(235, 235, 238);
+}
+
+header {
+    background-color:darkgreen;
+    color:rgb(235, 235, 238);
+    padding:0.0625em;
+    padding-left:2.5em;
+    padding-right:0.625em;
+    background-image:url(Pictures/websitetitle.png.png);
+    background-size:800px 100px;
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+h1{
+    font-size:2.8125em;
+    padding-left:90px;
+    text-shadow: 2px 2px #000000;
+}
+
+nav {
+    background-color:darkgreen;
+    padding-top:10px;
+    padding-left:1em;
+    padding-bottom:0.875em;
+}
+
+nav a{
+    display:inline;
+    color:white;
+    background-color:grey;
+    border:0.1875em groove rgb(93, 93, 104);
+    margin:-0.1875em;
+    padding:0.5em;
+    font-size:1.5625em;
+    font-family:"supreme";
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline;
+}
+
+@font-face {
+    font-family:"supreme";
+    src:url("supremefont.ttf");
+}
+
+body {
+    font-family:"supreme";
+    background-color:darkgreen;
+}
+
+main {
+    padding-left:1.0em;
+    background-color:darkgreen;
+}
+
+main a img{
+    margin:1.25em;
+}
+
+thead{
+    font-size:1.875em;
+}
+
+h2 {
+    font-size:1.875em;
+}
+
+h4 {
+    font-size:1.35em;
+}
+
+label {
+    padding-bottom:1em;
+}
+
+#contactform {
+    padding:1em;
+    float:left;
+    width:30%;
+    background-color;
+}
+
+#othercontactinfo {
+    padding-left:1em;
+    float:right;
+    width:70%;
+}

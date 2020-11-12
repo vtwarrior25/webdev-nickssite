@@ -1,0 +1,12 @@
+#ahkcodetable {
+    font-size:1.25em;
+
+}
+
+#ahkcodetable td {
+    padding:0.2em;
+}
+
+#ahkcodetable td.scripttitle {
+    font-size:1.25em;
+}
